@@ -17,6 +17,7 @@
 mod block_proposal_data;
 mod http;
 mod libsigner;
+mod security_poc;
 mod signer_state;
 
 use std::io::{Read, Write};
